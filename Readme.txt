@@ -4,8 +4,8 @@ email ID: rpatel12@umbc.edu & khatwan1@umbc.edu
 
 baseline_model_1 : The baseline model architecture implemented, the file is self sufficient to run, only changes required are file location there mentioned as global parameter
 baseline_model_2: Proposed solution model architecture implemented, the file is self sufficient to run, only changes required are file location there mentioned as global parameter
-VGG_encoder: The program give encoded representation of the images and saves them as a numpy array
-reading_file_loc: This file does the data preprocessing required for the model architectures and save the required dataframe.
+VGG_encoder: The program gives encoded representation of the images and saves them as a numpy array
+reading_file_loc: This file does the data preprocessing required for the model architectures and saves the required dataframe.
 
 
 Running the object recognition model
